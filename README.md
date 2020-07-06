@@ -3,9 +3,13 @@ A basic rest api with python, flask and sqlite3
 
 # To run the application
 on your terminal:
- cd <projectfoldername>
+
+ cd projectfoldername
+ 
  python api.py
+ 
 You will see : * Running on http://127.0.0.1:5000/
+
 Open this in your browser. This will take you to the homepage '/'
   
   
